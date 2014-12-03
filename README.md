@@ -5,6 +5,12 @@ Current Latest version is 0.5
 
 Change Log
 ------------
+v0.7
+- Added BigPictureStyle in the notification to show Image in the notification area
+- $gcpm->send("This is my message", array('title' => "this is my title",'vibrate' => 1, 'sound' => 'default', 'ticker'=> "my ticker text",'big_image'=>"YOUR COMPLETE IMAGE WEB URL"));
+- Original module link (https://github.com/liccowee/Google-Cloud-Messaging--Titanium-)
+
+
 v0.6
 - Fixed most of the issue.
 - Compatible with Titanium SDK 3.2.0 and higher including 3.2.3
