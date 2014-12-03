@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.7
+apiversion: 2
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+
+# these should not be edited
+name: gcm
+moduleid: com.activate.gcm
+guid: ad6af9d4-b2e0-4e8d-b6cc-b99f6957a9bb
+platform: android
+minsdk: 3.2.3.GA
